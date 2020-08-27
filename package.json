@@ -1,0 +1,24 @@
+{
+  "name": "@magr0s/yandex-money-sdk-nodejs",
+  "version": "0.0.1",
+  "description": "Yandex Money SDK for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oleksandr Krokhmalnyy <magr0s.ak@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magr0s/yandex-money-sdk-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magr0s/yandex-money-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/magr0s/yandex-money-sdk-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "axios-https-proxy-fix": "^0.17.1"
+  }
+}
