@@ -1,6 +1,6 @@
 {
   "name": "@magr0s/yandex-money-sdk-nodejs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Yandex Money SDK for NodeJS",
   "main": "index.js",
   "scripts": {
